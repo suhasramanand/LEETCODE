@@ -1,4 +1,4 @@
-package LEETCODE;
+package Top_Interview_150;
 
 import java.util.Scanner;
 
