@@ -25,7 +25,7 @@ public class mergeSortArray {
         }
     }
 
-    // Main method - the entry point of the program
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
