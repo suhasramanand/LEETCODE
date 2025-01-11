@@ -103,6 +103,3 @@ class Solution:
                     boxSet[box_index].add(num)
 
         return True
-
-
-                
